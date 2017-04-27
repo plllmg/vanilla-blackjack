@@ -173,6 +173,9 @@ function newHand() {
 }
 
 
+
+
+
 function resetPlayingArea() {
   /* This function needs to:
   1) Reset all state variables to their defaults
